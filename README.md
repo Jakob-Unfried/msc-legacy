@@ -40,7 +40,7 @@ This is a legacy version and reflects the version that was used for the numerica
 (to avoid licensing / plagiarism issues)
 - utils/jax_utils/ncon_jax.py
 
-  This is an adaption of ncon.py shipped with [TensorTrace](tensortrace.com) to use `jax.numpy` as a backend.
+  This is an adaption of ncon.py shipped with [TensorTrace](http://www.tensortrace.com) to use `jax.numpy` as a backend.
   Happy to provide pointers on how to do this on request.
   
 - figures/linear_pred.py
