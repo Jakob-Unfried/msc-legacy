@@ -5,33 +5,33 @@ This is a legacy version and reflects the version that was used for the numerica
 
 ## Overview
 
-- autodiff
+### autodiff
     
   Various custom autodiff formulae 
   
-- figures
+### figures
   + plots
   + raw_data
   + plotted_data
   
   Data processing and plotting
   
-- grad_tn
+### grad_tn
   
   Code for tensornetwork contractions, the Ising model, ...
   
-- jax_optimise
+### jax_optimise
 
   Optimisation library supporting complex cost functions of
   various input structures.
   Currently implemented: only L-BFGS algorithm.
   Use `jax_optimise.main.maximise` and `jax_optimise.main.minimise`
   
-- msc_projects
+### msc_projects
 
   Simulation files
   
-- utils
+### utils
 
   Utility functions
   
