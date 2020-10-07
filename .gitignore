@@ -1,2 +1,5 @@
-/utils/jax/ncon_jax.py
+/utils/jax_utils/ncon_jax.py
 /figures/linear_pred.py
+__pycache__
+.idea
+venv

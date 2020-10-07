@@ -1,0 +1,9 @@
+kwargs
+    folder:              /dss/dssfs02/lwp-dss-0001/pn69yo/pn69yo-dss-0000/di67met/msc-data/C1/2020_07_08_00_58_47
+    L:                   4
+    chi:                 3
+    g:                   3.5
+    init:                random
+    contraction_method:  brute
+    initial_state:       ps
+    initial_noise:       True
